@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7k3xoFwcFxicJpMFa680IyHg5sWh7QHfTc7Bks1NCJushv2o/WdGPtetukkdiDNUGZhGGVVtziY6CqxvaAhGug==",
+  "dgSpecHash": "rR18JkfxK8TZVI+lYGKAYoSwTCdche/rEOHlhC260oYP/ppG1FKNKIwW6p87EVxrG/ZAr2pxhZCLu/NPk/qZrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vadim.Nacharov\\Documents\\335Labs\\335Labs\\335Labs.csproj",
+  "projectFilePath": "C:\\335Labs\\335Labs\\335Labs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
